@@ -1,0 +1,11 @@
+E:\subir\20.12.2014\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+E:\subir\20.12.2014\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+E:\subir\20.12.2014\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.Menu.resources
+E:\subir\20.12.2014\StudentApp\StudentApp\obj\Debug\StudentApp.ViewUI.resources
